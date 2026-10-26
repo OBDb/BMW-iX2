@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_X2"
+
+generations:
+  - name: "First Generation (U10)"
+    start_year: 2024
+    end_year: null
+    description: "The iX2 is the battery-electric version of the second-generation X2 (U10), a coupe-styled crossover on the same UKL2 platform as the third-generation X1 and iX1. The xDrive30 has a motor on each axle; the eDrive20 has one motor driving the front wheels. It shares its drivetrain and electronics with the iX1 and its body and interior with the gasoline and diesel X2."
